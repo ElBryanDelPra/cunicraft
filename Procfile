@@ -1,1 +1,0 @@
-CuniCraft =  node CuniCraft.js
